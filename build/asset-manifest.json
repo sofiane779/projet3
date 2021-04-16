@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sofiane779/projet3.git/static/css/main.e0066ac2.chunk.css",
+    "main.js": "/sofiane779/projet3.git/static/js/main.022ae452.chunk.js",
+    "main.js.map": "/sofiane779/projet3.git/static/js/main.022ae452.chunk.js.map",
+    "runtime-main.js": "/sofiane779/projet3.git/static/js/runtime-main.a25aa98b.js",
+    "runtime-main.js.map": "/sofiane779/projet3.git/static/js/runtime-main.a25aa98b.js.map",
+    "static/css/2.dfa18d63.chunk.css": "/sofiane779/projet3.git/static/css/2.dfa18d63.chunk.css",
+    "static/js/2.2dc5a1ee.chunk.js": "/sofiane779/projet3.git/static/js/2.2dc5a1ee.chunk.js",
+    "static/js/2.2dc5a1ee.chunk.js.map": "/sofiane779/projet3.git/static/js/2.2dc5a1ee.chunk.js.map",
+    "index.html": "/sofiane779/projet3.git/index.html",
+    "static/css/2.dfa18d63.chunk.css.map": "/sofiane779/projet3.git/static/css/2.dfa18d63.chunk.css.map",
+    "static/css/main.e0066ac2.chunk.css.map": "/sofiane779/projet3.git/static/css/main.e0066ac2.chunk.css.map",
+    "static/js/2.2dc5a1ee.chunk.js.LICENSE.txt": "/sofiane779/projet3.git/static/js/2.2dc5a1ee.chunk.js.LICENSE.txt",
+    "static/media/bkc.768a907c.jpg": "/sofiane779/projet3.git/static/media/bkc.768a907c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a25aa98b.js",
+    "static/css/2.dfa18d63.chunk.css",
+    "static/js/2.2dc5a1ee.chunk.js",
+    "static/css/main.e0066ac2.chunk.css",
+    "static/js/main.022ae452.chunk.js"
+  ]
+}
